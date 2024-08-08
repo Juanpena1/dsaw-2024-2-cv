@@ -85,4 +85,3 @@ section {
 
 ¡Buena suerte y diviértanse creando su CV!
 
-https://github.com/Juanpena1/dsaw-2024-2-cv
