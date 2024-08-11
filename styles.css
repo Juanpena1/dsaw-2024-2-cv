@@ -1,4 +1,47 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background-color: lightgray;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.info{
+    display: grid;
+
+    
+    
+}
+
+.columna{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(23, 23, 147);
+    color: white;
+    display: grid;
+    row-gap: 80px;
+    padding: 20px;
+}
+.columna2{
+    margin-top: 10px;
+    padding: 20px;
+    display: grid;
+}
+.todo{
+    display: flex;
+    height: 100vh;
+}
+ul li{
+    list-style-type: circle;
+    margin: 20px;
+}
+.info2{
+    display: grid;
+}
+h1{
+    color: rgb(23, 23, 147);
+}
+.columna2 h3{
+    color: rgb(23, 23, 147);
 }
